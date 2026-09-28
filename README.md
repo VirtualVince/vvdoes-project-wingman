@@ -8,9 +8,9 @@ Three popular Project Wingman mods that normally cancel each other out, merged s
 
 | Mod | By | What it does |
 |---|---|---|
-| [More WSOs](https://www.nexusmods.com/projectwingman/mods/566) | see mod page | A back-seater (WSO) on 17 more aircraft |
-| [AoA for All and Mk2 planes for Campaign (F59)](https://www.nexusmods.com/projectwingman/mods/707) | see mod page | AoA on every aircraft, Mk2 variants buyable in campaign, EUFB/RDBM outside Conquest |
-| [Playable Unreleased Planes](https://www.nexusmods.com/projectwingman/mods/17) | Callsign-YukiMizuki | Unlocks A-10A, F-18F, Su-30, F-15E, J-10B, FT-15, RF-1, Su-47, Su-57, E-3, X-16 and the Conquest variants at 0 credits, plus BML-U weapons |
+| [More WSOs](https://www.nexusmods.com/projectwingman/mods/566) | ViperLass | A back-seater (WSO) on 17 more aircraft |
+| [AoA for All and Mk2 planes for Campaign (F59)](https://www.nexusmods.com/projectwingman/mods/707) | MartyrAsTurrets | AoA on every aircraft, Mk2 variants buyable in campaign, EUFB/RDBM outside Conquest |
+| [Playable Unreleased Planes](https://www.nexusmods.com/projectwingman/mods/17) | CherrysDelight | Unlocks A-10A, F-18F, Su-30, F-15E, J-10B, FT-15, RF-1, Su-47, Su-57, E-3, X-16 and the Conquest variants at 0 credits, plus BML-U weapons |
 
 All credit for these goes to their authors. Download them from the links above.
 
