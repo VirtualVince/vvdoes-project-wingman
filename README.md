@@ -30,7 +30,7 @@ Playable Unreleased Planes was made for a 2021 game version, and its tables are 
 
 ## Install
 
-Requires **Python 3.8+** and no other packages. It works on Windows and Linux (including Steam Deck / Proton).
+Requires **Python 3.8+** and no other packages. It works on Windows and Linux (including Steam Deck / Proton). On Windows, install Python from [python.org](https://www.python.org/downloads/) and tick **"Add python.exe to PATH"** in the installer.
 
 1. Download the three original mods from the links above into one folder, e.g. `Downloads/pw-mods`. Leave them zipped: `.zip` files are opened automatically. The Unreleased Planes `.rar` needs 7-Zip or `bsdtar` installed, or you can extract it into the same folder yourself.
 2. Get this tool: **Code → Download ZIP** on this page, then unzip it.
