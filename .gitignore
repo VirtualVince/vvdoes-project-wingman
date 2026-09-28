@@ -1,0 +1,7 @@
+*.pak
+*.zip
+*.rar
+*.7z
+*.uasset
+*.uexp
+__pycache__/
